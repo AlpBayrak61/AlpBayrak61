@@ -1,5 +1,5 @@
 <h1 align="center">Welcome to my GitHub!</h1>
-<h3 align="center">Hi My name is Alp, I'm a passionate developer with a focus on Artificial Intelegence, Data Science,and Backend Development. Currently, I’m the Lead AI Developer for a Formula Racing Team, where I drive advancements in self-driving race car technology, and I’m also working on tools to simplify sustainability and make solar energy accessible. Here, you'll find projects ranging from AI-powered recommendations to advanced data storage APIs and more. I’m always excited to explore new ways technology can make a difference.</h3>
+<h3 align="center">Hi My name is Alp, I'm a passionate developer with a focus on Artificial Intelegence, Data Science,and Full Stack Development. Currently, I’m the Lead AI Developer for a Formula Racing Team, where I drive advancements in self-driving race car technology, and I’m also working on tools to simplify sustainability and make solar energy accessible. Here, you'll find projects ranging from AI-powered recommendations to advanced data storage APIs and more. I’m always excited to explore new ways technology can make a difference.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alpbayrak61&label=Profile%20views&color=0e75b6&style=flat" alt="alpbayrak61" /> </p>
 
